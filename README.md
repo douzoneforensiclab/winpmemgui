@@ -1,9 +1,9 @@
 # wimpmemgui
 
 <pre>
-이 프로그램은 rekall의 pmem 프로젝트의 winpmem의 GUI 버전 입니다.
-이 프로그램의 수정 및 배포는 LGPLv2 라이선스에 따르지만 
-winpmem 라이브러리를 사용한 부분은 rekall의 라이선스를 따릅니다.
+이 프로그램은 rekall 프로젝트의 pmem 유틸리티 중 winpmem의 GUI 버전 입니다.
+이 프로그램의 수정 및 배포는 LGPLv2 라이선스에 따르지만 winpmem 
+라이브러리를 사용한 부분은 rekall 프로젝트의 라이선스를 따릅니다.
 
 rekall git 주소
 https://github.com/google/rekall
