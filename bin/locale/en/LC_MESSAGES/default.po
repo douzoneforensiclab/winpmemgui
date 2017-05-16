@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2013-09-11 11:36\n"
+"PO-Revision-Date: 2017-03-22 09:21+0900\n"
+"Last-Translator: leehs <leehs@duzon.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"Language-Team: \n"
+"Language: en\n"
+
+msgid "시작"
+msgstr "Start"
+
+msgid "취소"
+msgstr "Cancel"
+
+msgid "닫기"
+msgstr "Close"
+
+msgid "경로 설정"
+msgstr "Setting path"
+
+msgid "진행 중인 작업을 취소 하시겠습니까?"
+msgstr "To cancel the progress task."
+
+msgid "안내"
+msgstr "Guide"
+
+msgid "저장 경로를 설정하십시요."
+msgstr "please select the save path."
