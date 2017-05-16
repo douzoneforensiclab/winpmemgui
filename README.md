@@ -1,6 +1,7 @@
 # wimpmemgui
 
 이 프로그램은 rekall의 pmem 프로젝트의 GUI Wrapper입니다.
+
 이 프로그램의 수정 및 배포는 LGPL 라이선스에 따르지만 
 pmem 라이브러리를 사용한 부분은 rekall의 라이선스를 따릅니다.
 
