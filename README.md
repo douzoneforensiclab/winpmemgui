@@ -1,4 +1,4 @@
-# wimpmemgui
+# winpmemgui
 
 <pre>
 이 프로그램은 rekall 프로젝트의 pmem 유틸리티 중 winpmem의 GUI 버전 입니다.
